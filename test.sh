@@ -3,4 +3,4 @@ cd example
 rm *.class
 javac *.java
 cd ..
-./run_unittest.py
+python ./run_unittest.py

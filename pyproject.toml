@@ -1,0 +1,10 @@
+[project]
+name = "python-jvm-interpreter"
+version="0.0.0-1-SNAPSHOT"
+authors = {
+      {name = "Gokberk Yaltirakli", email = "git@gkbrk.com"},
+}
+
+maintainers = {
+    {name = "Xander Lockard", email = "xanderlockard098@gmail.com"}
+}
